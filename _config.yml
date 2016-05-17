@@ -1,0 +1,28 @@
+name: City Light Church
+favicon: null
+layout_spectrum: 0.9909829238895327
+typography_spectrum: 0.6707619319204241
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.0954171980265528
+  lightness: 0.48468092922121286
+  saturation: 0.809823335846886
+  rhythmicContrast: 0.08792251348495483
+purpose: []
